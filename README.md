@@ -6,6 +6,6 @@ Este projeto é uma aplicação em JavaScript que inicia um servidor e verifica 
 
 - JavaScript
 - Node.js
-- Express.js (ou qualquer outra biblioteca que você estiver usando para criar o servidor)
+- Express.js
 
 
